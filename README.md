@@ -2,7 +2,8 @@
 
 # Katsuo
 
-**Senior Full-Stack Developer · Graphic/Web Designer · Criptoanalista · Engenheiro de Automação**
+**Senior Full-Stack Developer · Graphic/Web Designer**  
+**Webtoon Editor · Automation/RPA Engineer · Python Developer**
 
 🟡 **Status:** construindo o LiveToon e novos projetos web
 
@@ -13,7 +14,7 @@
 
 </div>
 
-Criador de programas e projetos web, incluindo plataformas de webtoons, layouts de sites e experiências digitais com identidade visual, código e usabilidade.
+Criador de programas, bots e automações para processos em escala. Também atuo como editor profissional de webtoons, designer de interfaces e desenvolvedor de ferramentas e softwares em Python.
 
 ## LiveToon
 
@@ -21,6 +22,6 @@ Plataforma de webtoons com catálogo, leitura responsiva, favoritos, histórico,
 
 ## Stack
 
-`TypeScript` · `React` · `Vite/Vinext` · `Tailwind CSS` · `Bootstrap` · `Python` · `SQLite` · `Node.js` · `CSS`
+`TypeScript` · `React` · `Vite/Vinext` · `Tailwind CSS` · `Bootstrap` · `Python` · `Bots/RPA` · `SQLite` · `Node.js` · `CSS`
 
 [Ver o projeto LiveToon](https://github.com/rafaelkennedyrkp20-bot/LIVETOON)
