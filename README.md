@@ -22,6 +22,6 @@ Plataforma de webtoons com catálogo, leitura responsiva, favoritos, histórico,
 
 ## Stack
 
-`TypeScript` · `React` · `Vite/Vinext` · `Tailwind CSS` · `Bootstrap` · `Python` · `Bots/RPA` · `SQLite` · `Node.js` · `CSS`
+`TypeScript` · `React` · `Vite/Vinext` · `Tailwind CSS` · `Bootstrap` · `Python` · `Laravel` · `Bots/RPA` · `SQLite` · `Node.js` · `CSS`
 
 [Ver o projeto LiveToon](https://github.com/rafaelkennedyrkp20-bot/LIVETOON)
