@@ -1,16 +1,22 @@
-## Hi there 👋
+# Katsuo
 
-<!--
-**rafaelkennedyrkp20-bot/rafaelkennedyrkp20-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full-stack e criador do **LiveToon**, uma plataforma de webtoons criada para unir arte original, histórias exclusivas e uma leitura confortável em qualquer tela.
 
-Here are some ideas to get you started:
+## Em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LiveToon
+
+Uma experiência completa para leitores e criadores, com catálogo de webtoons, leitor responsivo, favoritos, histórico, notificações, comunidade e ferramentas administrativas.
+
+- Catálogo com busca, filtros por gênero e artista e carregamento progressivo
+- Leitura com comentários, preferências e histórico por conta
+- Comunidade pública com postagens, curtidas e comentários
+- Backend Python + SQLite e interface TypeScript + React
+
+## Stack
+
+`TypeScript` · `React` · `Node.js` · `Python` · `SQLite` · `CSS`
+
+## Projeto
+
+- [LIVETOON](https://github.com/rafaelkennedyrkp20-bot/LIVETOON)
