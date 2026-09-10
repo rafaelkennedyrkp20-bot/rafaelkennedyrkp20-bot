@@ -3,7 +3,7 @@
 # Katsuo
 
 **Senior Full-Stack Developer · Graphic/Web Designer**  
-**Webtoon Editor · Automation/RPA Engineer · Python Developer**
+**Webtoon Editor · Automation/RPA Engineer · Python & Software Tools Developer**
 
 🟡 **Status:** construindo o LiveToon e novos projetos web
 
